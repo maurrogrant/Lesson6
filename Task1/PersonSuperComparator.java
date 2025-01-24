@@ -1,3 +1,5 @@
+package Task1;
+
 import java.util.Comparator;
 
 public class PersonSuperComparator implements Comparator<Person> {
